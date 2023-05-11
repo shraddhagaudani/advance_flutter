@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
+<img align = "left" src="https://github.com/shraddhagaudani/advance_flutter/assets/122030732/8adb8b71-edeb-4b51-a769-7c485fdcbdd1" width = "220px">
+<img align = "left" src="https://github.com/shraddhagaudani/advance_flutter/assets/122030732/3297c777-da2a-4e2c-8ec2-ed67ded7f7fa" width = "220px">
+<img src="https://github.com/shraddhagaudani/advance_flutter/assets/122030732/bf5d2d60-3958-499d-84f4-a49341f4cec5" width = "220px">
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
